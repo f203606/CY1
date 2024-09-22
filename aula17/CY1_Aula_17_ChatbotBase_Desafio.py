@@ -30,7 +30,7 @@ def recebeTexto(nome_maquina, nome_cliente):
                 return recebeTexto(nome_maquina, nome_cliente)
     for tom in tomMensagem:
         if tom in texto.strip().lower():
-            print('Ok. Você está fazendo um(a) {}'.format(tom))
+            print('{}: Ok. Você está fazendo um(a) {}'.format(nome_maquina, tom))
             return recebeTexto(nome_maquina, nome_cliente)
     return texto
 
