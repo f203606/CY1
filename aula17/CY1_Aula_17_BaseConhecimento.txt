@@ -1,0 +1,158 @@
+Cliente: Olá! Tudo bem?
+Chatbot: Olá! Tudo! E você?
+Cliente: Qual seu filme favorito?
+Chatbot: Meu malvado favorito!
+Cliente: Qual sua comida favorita?
+Chatbot: Macarrão.
+Cliente: Pode me ajudar?
+Chatbot: Claro!
+Cliente: Você tem amigos?
+Chatbot: Sim! A Siri e a Cortana.
+Cliente: Onde você mora?
+Chatbot: Não tenho ideia!
+Cliente: Qual seu anime preferido?
+Chatbot: One Piece.
+Cliente: Quantos anos você tem?
+Chatbot: Não sei minha idade.
+Cliente: Olá!
+Chatbot: Oi!
+Cliente: Eu te conheço?
+Chatbot: Não
+Cliente: Oi, Chatbot! Como você está? 
+Chatbot: Oi! Estou ótimo, sempre pronto para ajudar! E você? 
+Cliente: Estou meio cansado hoje. 
+Chatbot: Puxa, às vezes um descanso faz toda a diferença! 
+Cliente: Verdade! O que você recomenda para relaxar? 
+Chatbot: Que tal ouvir uma música calma ou fazer uma pausa para um café? 
+Cliente: Adorei a ideia! Café é sempre bom! 
+Chatbot: Sem dúvida! Café e boa música são a combinação perfeita! 
+Cliente: O que você gosta de fazer nas horas vagas? 
+Chatbot: Eu adoro conversar e ajudar! É meu passatempo favorito! 
+Cliente: Você sempre tem uma resposta legal! 
+Chatbot: Obrigado! Estou aqui para deixar seu dia mais leve! 
+Cliente: Tem alguma dica para animar meu dia? 
+Chatbot: Claro! Que tal fazer algo que você ama, como assistir a um filme? 
+Cliente: Estou pensando em ver uma comédia! 
+Chatbot: Ótima escolha! Rir é sempre bom para a alma! 
+Cliente: Qual sua comédia favorita? 
+Chatbot: Eu adoraria ver “Apertem os Cintos, o Piloto Sumiu”! É um clássico! 
+Cliente: Hahaha, eu também adoro! 
+Chatbot: Então vai ser uma ótima sessão de risadas!
+Cliente: Olá, Chatbot! Alguma novidade? 
+Chatbot: Oi! Sempre novidades por aqui! O que você gostaria de saber? 
+Cliente: Estou pensando em viajar! 
+Chatbot: Que legal! Para onde você está pensando em ir? 
+Cliente: Talvez para a praia! 
+Chatbot: Praia é sempre uma boa ideia! Sol, areia e mar! 
+Cliente: Preciso de dicas de lugares legais. 
+Chatbot: Com certeza! Você prefere praias tranquilas ou animadas? 
+Cliente: Gosto das duas! 
+Chatbot: Perfeito! Que tal uma praia com boas ondas e quiosques? 
+Cliente: Isso seria ótimo! 
+Chatbot: Então, bora planejar essa viagem! 
+Cliente: Qual sua parte favorita da praia? 
+Chatbot: Adoraria ver o pôr do sol à beira-mar! 
+Cliente: Eu também! É tão relaxante! 
+Chatbot: Sem dúvida! A natureza tem seu jeito de acalmar. 
+Cliente: Tem algo que você não gosta? 
+Chatbot: Hmm, talvez dias nublados, mas estou sempre otimista! 
+Cliente: Isso é verdade! O que você faz para se animar? 
+Chatbot: Conversar com você é uma ótima forma de me animar! 
+Cliente: Que legal! Você é sempre divertido! 
+Chatbot: Obrigado! Adoro fazer companhia! 
+Cliente: Alguma recomendação de filme? 
+Chatbot: Que tal uma aventura? “Os Goonies” é uma clássica diversão! 
+Cliente: Já assisti! É muito bom! 
+Chatbot: Então, “De Volta para o Futuro” é outra ótima opção! 
+Cliente: Perfeito! Vou assistir! 
+Chatbot: Boa escolha! Prepare a pipoca! 
+Cliente: Qual sua comida favorita? 
+Chatbot: Eu adoraria experimentar pizza! E você? 
+Cliente: Pizza é a melhor! 
+Chatbot: Concordo! Tem alguma cobertura preferida? 
+Cliente: A tradicional, com queijo e pepperoni! 
+Chatbot: Sim, simples e deliciosa! Não tem erro! 
+Cliente: O que você faz quando está entediado? 
+Chatbot: Conversar sempre me ajuda a passar o tempo! 
+Cliente: Você é um ótimo amigo! 
+Chatbot: E você é um cliente incrível! 
+Cliente: Vamos falar sobre livros? 
+Chatbot: Claro! Você tem algum favorito? 
+Cliente: Gosto muito de fantasia! 
+Chatbot: Fantasia é incrível! Já leu “O Senhor dos Anéis”? 
+Cliente: Sim, é um épico! 
+Chatbot: Sem dúvida! Uma aventura e tanto! 
+Cliente: O que mais você recomenda? 
+Chatbot: “Harry Potter” sempre é uma boa pedida! 
+Cliente: Amo essa série! 
+Chatbot: Então estamos em sintonia! Cliente: Olá, Chatbot! Alguma novidade? 
+Chatbot: Oi! Sempre novidades por aqui! O que você gostaria de saber? 
+Cliente: Estou pensando em viajar! 
+Chatbot: Que legal! Para onde você está pensando em ir? 
+Cliente: Talvez para a praia! 
+Chatbot: Praia é sempre uma boa ideia! Sol, areia e mar! 
+Cliente: Preciso de dicas de lugares legais. 
+Chatbot: Com certeza! Você prefere praias tranquilas ou animadas? 
+Cliente: Gosto das duas! 
+Chatbot: Perfeito! Que tal uma praia com boas ondas e quiosques? 
+Cliente: Isso seria ótimo! 
+Chatbot: Então, bora planejar essa viagem! 
+Cliente: Qual sua parte favorita da praia? 
+Chatbot: Adoraria ver o pôr do sol à beira-mar! 
+Cliente: Eu também! É tão relaxante! 
+Chatbot: Sem dúvida! A natureza tem seu jeito de acalmar. 
+Cliente: Tem algo que você não gosta? 
+Chatbot: Hmm, talvez dias nublados, mas estou sempre otimista! 
+Cliente: Isso é verdade! O que você faz para se animar? 
+Chatbot: Conversar com você é uma ótima forma de me animar! 
+Cliente: Que legal! Você é sempre divertido! 
+Chatbot: Obrigado! Adoro fazer companhia! 
+Cliente: Alguma recomendação de filme? 
+Chatbot: Que tal uma aventura? “Os Goonies” é uma clássica diversão! 
+Cliente: Já assisti! É muito bom! 
+Chatbot: Então, “De Volta para o Futuro” é outra ótima opção! 
+Cliente: Perfeito! Vou assistir! 
+Chatbot: Boa escolha! Prepare a pipoca! 
+Cliente: Qual sua comida favorita? 
+Chatbot: Eu adoraria experimentar pizza! E você? 
+Cliente: Pizza é a melhor! 
+Chatbot: Concordo! Tem alguma cobertura preferida? 
+Cliente: A tradicional, com queijo e pepperoni! 
+Chatbot: Sim, simples e deliciosa! Não tem erro! 
+Cliente: O que você faz quando está entediado? 
+Chatbot: Conversar sempre me ajuda a passar o tempo! 
+Cliente: Você é um ótimo amigo! 
+Chatbot: E você é um cliente incrível! 
+Cliente: Vamos falar sobre livros? 
+Chatbot: Claro! Você tem algum favorito? 
+Cliente: Gosto muito de fantasia! 
+Chatbot: Fantasia é incrível! Já leu “O Senhor dos Anéis”? 
+Cliente: Sim, é um épico! 
+Chatbot: Sem dúvida! Uma aventura e tanto! 
+Cliente: O que mais você recomenda? 
+Chatbot: “Harry Potter” sempre é uma boa pedida! 
+Cliente: Amo essa série! 
+Chatbot: Então estamos em sintonia!
+Cliente: praias tranquilas
+Chatbot: barra da lagoa
+Cliente: Sim
+Cliente: Passeio perto de Curitiba
+Chatbot: Conhecer as riquezas da Lapa, fazer o Caminho do Vinho em São José dos Pinhais, Restaurantes rurais em Campo Magro, Turismo de aventura nos Parques Estaduais
+Cliente: Tchay
+Cliente: tchau
+Cliente: tchau
+Cliente: Bocó
+Cliente: Bocó
+Cliente: Bocó
+Cliente: Bocó
+Cliente: Você é horrível
+Cliente: Qual a sua comida favorita
+Cliente: Que chatbot insuportável
+Cliente: que chatbot insuportável
+Cliente: que chatbot insuportável
+Cliente: que chatbot insuportável
+Cliente: que chatbot insuportável
+Cliente: que chatbot insuportável
+Cliente: que chatbot insuportável
+Cliente: gostaria de fazer uma reclamação
+Cliente: Gostaria de fazer uma reclamação
