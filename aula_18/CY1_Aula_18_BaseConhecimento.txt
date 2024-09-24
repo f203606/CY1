@@ -135,3 +135,4 @@ Cliente: Amo essa série!
 Chatbot: Então estamos em sintonia!
 Cliente: Passeio perto de Curitiba
 Chatbot: Conhecer as riquezas da Lapa, fazer o Caminho do Vinho em São José dos Pinhais, Restaurantes rurais em Campo Magro, Turismo de aventura nos Parques Estaduais
+
