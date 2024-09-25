@@ -47,7 +47,7 @@ def buscaResposta_GUI(texto):
         while True:
             viu = conhecimento.readline()
             if viu != '':
-                if jaccard(texto, viu) > 0.3:
+                if jaccard(texto, viu) > 0.5:
                     proximalinha = conhecimento.readline()
                     if 'Chatbot: ' in proximalinha:
                         return proximalinha
@@ -68,7 +68,7 @@ def jaccard(textoUsuario, textoBase):
         return palavras_em_comum/(len(textoBase.split()))
     
 def limpa_frase(frase):
-    tirar = ["?","!","...",".",",","Cliente: ", "\n"]
+    tirar = ["?","!","...",".",",","Cliente: ", "\n","Qual","é","sua","favorita","favorito","que","você","acha"]
     for t in tirar:
         frase = frase.replace(t,"")
     frase = frase.upper()
